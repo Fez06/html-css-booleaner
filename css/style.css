@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    
 }
 header {
     background-image: url(../img/pattern.png);
@@ -12,6 +13,9 @@ header {
 }
 h1 {
     font-size: 40px;
+}
+.sottotitolo {
+    padding-bottom: 20px;
 }
 .grigio {
     color: gray;
@@ -27,4 +31,24 @@ ul {
 }
 .evidenziato {
     background-color: yellow;
+}
+table {
+    width: 100%;
+    text-align: left;
+}
+.colonna-uno {
+    width: 25%;
+}
+.colonna-due {
+    width: 25%;
+}
+.colonna-tre {
+    width: 50%;
+}
+.header-row {
+    background-color: rgb(78, 160, 255);
+    color: white;
+}
+.odd {
+    background-color: rgb(177, 229, 242);
 }
