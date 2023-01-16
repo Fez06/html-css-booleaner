@@ -19,3 +19,12 @@ h1 {
 .legenda {
     font-size: small;
 }
+#parte-centrale {
+    padding-top: 15px;
+}
+ul {
+    padding: 20px;
+}
+.evidenziato {
+    background-color: yellow;
+}
