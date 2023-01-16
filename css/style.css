@@ -1,6 +1,9 @@
 * {
     margin: 0;
-    
+}
+.contenitore {
+    width: 1050px;
+    margin: auto;
 }
 header {
     background-image: url(../img/pattern.png);
@@ -35,6 +38,7 @@ ul {
 table {
     width: 100%;
     text-align: left;
+    border-collapse: collapse;
 }
 .colonna-uno {
     width: 25%;
