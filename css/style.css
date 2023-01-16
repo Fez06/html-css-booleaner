@@ -41,10 +41,7 @@ table {
     border-collapse: collapse;
     margin-bottom: 20px;
 }
-.colonna-uno {
-    width: 25%;
-}
-.colonna-due {
+.colonna-uno .colonna-due{
     width: 25%;
 }
 .colonna-tre {
