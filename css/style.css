@@ -3,7 +3,6 @@
 }
 .contenitore {
     width: 1050px;
-    margin: auto;
 }
 header {
     background-image: url(../img/pattern.png);
@@ -65,7 +64,6 @@ footer {
     font-size: 18px;
     font-weight: bold;
     color: white;
-    text-align: center;
 }
 .video-uno {
     background-image: url(../img/monitor.jpg);
